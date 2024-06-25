@@ -161,13 +161,6 @@ For more detailed instructions, refer to the `api.js` file in the `src/api` dire
 
 For further documentation, including detailed API specifications and frontend integration details, please refer to the full project documentation available in the `backend/README.md` file and the comments within the codebase.
 
-## Submission
-
-Please ensure your code is pushed to your GitHub repository. Share the link to your repository and include all necessary documentation.
-
-For any further clarification or assistance, feel free to reach out.
-
----
 
 Thank you for reviewing this project. I hope this documentation helps you understand the structure and setup process. If you have any questions, please let me know.
 
